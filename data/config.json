@@ -1,0 +1,9 @@
+{
+    "token":"WeiChartToken",
+    "appID":"wx00********396", 
+    "appScrect":"326466*********e18f",
+    "apiDomain":"https://api.weixin.qq.com/",
+    "apiURL":{
+        "accessTokenApi":"%scgi-bin/token?grant_type=client_credential&appid=%s&secret=%s"
+    }
+}
